@@ -8,6 +8,8 @@ A small program creating two charts from the given set of documents in txt files
 
 2. A pie chart with average of percenttage frequencies of occurance of each letter of alphabet in the given set of texts
 
+![SherlockChart](./Screenshots/SherlockChart.jpg?raw=true "Sherlock Chart")
+
 Options for customisation / default values:
 
 1. Alphabet used for the charts - if not spcified, standard 26 small letters (a-z) of English alpabet are used
