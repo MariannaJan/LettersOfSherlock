@@ -68,9 +68,3 @@ def showPlots(text_directory_pathname, title, legend_label_main,
     plot_letters()
     plot_pie_letters()
     plt.show()
-
-#Books form Gutenberg Project: https://www.gutenberg.org/ebooks/author/69
-
-showPlots(text_directory_pathname="./Books/",
-        title="Sir Arthur Conan Doyle's favourite letters",
-        legend_label_main="in Doyle's stories")
